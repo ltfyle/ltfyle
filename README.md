@@ -4,7 +4,7 @@ I'm an undergraduate computer science student at The University of Missouri -St.
 
 I feel strongly about using data to drive meaningful change, and support informed decision making. My goal is to apply analytical and technical skills to projects that make a positive real-world impact. 
 
-
+[View Samples of My Work](https://github.com/ltfyle?tab=repositories)
 
 🔍 Current Interests
 
