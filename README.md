@@ -32,7 +32,7 @@ I feel strongly about using data to drive meaningful change, and support informe
 
  In my repositories, you’ll find a mix of coursework, practice notebooks, and personal projects. Many are works in progress — I’m always learning and improving.
 
-Outside of data, I enjoy spending time outdoors, reading, and hanging out with my two dogs, Peanut and Buttercup.
+Outside of data, I enjoy spending time outdoors, reading, and hanging out with my dog.
 
 Feel free to connect or reach out — I’m always open to feedback, collaboration and new opportunities.
 
