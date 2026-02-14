@@ -1,14 +1,39 @@
-## Hi there 👋
-You can find my work in my repositories. It's a mix of classwork and personal projects. 
-Most of it is a work in progress, but such is life :)
+## Hi, I`m Lauren
 
-There you can get a sense of me as a programmer. 
+I'm an undergraduate computer science student at The University of Missouri -St. Louis with a strong interest in data analytics, and a growing passion for machine learning.
 
-I can`t think of anything else to add, 
-so feel free to message me with any questions or comments. 
+I feel strongly about using data to drive meaningful change, and support informed decision making. My goal is to apply analytical and technical skills to projects that make a positive real-world impact. 
 
-Cheers! 
-  - Lauren 
+
+🔍 Current Interests
+
+* Data analytics & visualization
+
+* Machine learning fundamentals
+
+Applied statistical modeling
+
+Real-world problem solving through data
+
+
+🛠️ Tools & Technologies
+
+Python (Pandas, NumPy, Matplotlib, scikit-learn, Jupyter-Lab)
+
+SQL
+
+R
+
+Java (working knowledge)
+
+
+You’ll find a mix of coursework and personal projects in my repositories. Many are works in progress — I’m always learning and improving.
+
+Outside of data, I enjoy spending time outdoors, reading, and hanging out with my two dogs, Peanut and Buttercup.
+
+Feel free to connect or reach out — I’m always open to feedback, collaboration and new opportunities.
+
+— Lauren
 <!--
 **ltfyle/ltfyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
