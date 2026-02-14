@@ -1,8 +1,9 @@
 ## Hi there, I`m Lauren
 
-  I'm an undergraduate computer science student at The University of Missouri -St. Louis with a strong interest in data analytics, and a growing passion for machine learning.
+    I'm an undergraduate computer science student at The University of Missouri -St. Louis with a strong interest in data analytics, and a growing passion for machine learning.
 
 I feel strongly about using data to drive meaningful change, and support informed decision making. My goal is to apply analytical and technical skills to projects that make a positive real-world impact. 
+
 
 
 🔍 Current Interests
@@ -29,7 +30,8 @@ I feel strongly about using data to drive meaningful change, and support informe
 * R (Working knowledge)
 
 
-  You’ll find a mix of coursework, practice notebooks, and personal projects in my repositories. Many are works in progress — I’m always learning and improving.
+
+    You’ll find a mix of coursework, practice notebooks, and personal projects in my repositories. Many are works in progress — I’m always learning and improving.
 
 Outside of data, I enjoy spending time outdoors, reading, and hanging out with my two dogs, Peanut and Buttercup.
 
